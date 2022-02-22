@@ -1,4 +1,4 @@
-## Olá! Eu sou o LittleJohn, apenas um apaixonado por programação e tecnologia!
+## Olá! Me chamos João Vítor e sou apaixonado por programação.
 
 <div align="center">
   <a href="https://github.com/lLittleJohnl">
