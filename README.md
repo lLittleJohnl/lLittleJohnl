@@ -9,8 +9,7 @@
    <img align="center" alt="JV-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" alt="JV-Perl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg">
    <img align="center" alt="JV-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="JV-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-   <img align="right" alt="JV-pic" height="150" style="border-radius:50px;" 
+   <img align="center" alt="JV-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
 </div>
   
   ##
