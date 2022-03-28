@@ -24,4 +24,4 @@
   ![Snake animation](https://github.com/lLittleJohnl/lLittleJohnl/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+人生は選択によって定義されます、私はとどまって戦うことを選びました
