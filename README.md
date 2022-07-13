@@ -1,4 +1,4 @@
-## Olá! Me chamo João Vítor e curto muito conteúdo de tecnologia e programação.
+## Welcome
 
 <div align="center">
   <a href="https://github.com/lLittleJohnl">
